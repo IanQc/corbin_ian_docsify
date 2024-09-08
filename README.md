@@ -17,6 +17,8 @@ aenl
 
 # Présentation
 * Lieu: 175, rue Sainte-Catherine Ouest, Montréal
+* Espace culturel Georges-Émile-Lapalme
+* Place des Arts Intérieur
 
 # Description
 ![Mon image](Description1.png)
