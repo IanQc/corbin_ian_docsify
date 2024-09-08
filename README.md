@@ -37,3 +37,12 @@ Ses mémoires créer par tous les participants sont a la vu de tous dans le cime
 * Tout le monde peut laisser sa trace il suffit juste de payer 1$ afin d'avoir acces a une piere tombales numérique menant a une adresse web d'un tombeau personalisé
 ![Mon image](Description3.png)
 
+# Comment ?
+
+
+* Composante centrale : Machine distributrice de pierre tombale.
+* Fonctionnement : Insérer 1$ dans la machine pour recevoir une pierre tombale avec une adresse web attacher a celle-ci, permettant de laisser un message personalisable dasn une tombe électronique.
+* Impact : Il se distingue par sa simplicité et son importance. En effet, il est facile a utilisé et permet de laisser un message ou une image qui pourrait dans un futur proche ou éloigné autant être importante, que drole, que nostalgique ou même etre complétement oublié.
+
+# Appréciation et commentaire personnel
+J'ai choisi cette oeuvre car j'aime bien le fait qu'on peut laisser un mémo enterré en hériatge et que n'importe qui autant aujourd'hui que dans les années a venir puissent venir interragir avec tous ses messages enterrés avec le temps. 
