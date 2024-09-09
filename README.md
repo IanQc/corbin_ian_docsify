@@ -1,6 +1,6 @@
 # Digi-Deuil
 ![Image principale](https://github.com/user-attachments/assets/3fbfc2ec-4665-4060-a8bf-10520fa8ba18)
-https://digideuil.net/
+[Lien du site interactif](https://digideuil.net/)
 
 # Compagnie
 aenl
